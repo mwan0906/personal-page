@@ -1,3 +1,18 @@
-.selected {
-  background-color: gray;
+#header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+#body {
+  width: 60%;
+  margin: auto;
+}
+
+section {
+  text-align: justify;
+}
+
+img {
+  width: 20%;
 }
